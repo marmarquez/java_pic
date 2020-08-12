@@ -1,7 +1,5 @@
 # java_pic
-Programa para desarrollar una gui que permita comunicacion serial con un pic18f2550
-.
-.
+Programa para desarrollar una gui que permita comunicacion serial con un pic18f255
 .
 
 Proyecto desarrollado como trabajo freelance con Neurona. 
@@ -14,8 +12,6 @@ Utiliza la librería JSerialComm para la comunicación serial.
 
 Realiza la detección automática del puerto de interés al mandar un mensaje con valor de caracter 'P'.
 Y al recibir el mismo caracter de inmediato establece la conexión.
-.
-.
-.
+
 
 Fue desarrollado son el IDE Eclipse, JDK 14.
