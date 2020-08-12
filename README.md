@@ -15,4 +15,4 @@ Realiza la detección automática del puerto de interés al mandar un mensaje co
 Y al recibir el mismo caracter de inmediato establece la conexión.
 
 
-Fue desarrollado son el IDE Eclipse, JDK 14.
+Fue desarrollado con el IDE Eclipse, JDK 14.
