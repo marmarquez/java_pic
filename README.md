@@ -3,6 +3,7 @@ Programa para desarrollar una gui que permita comunicacion serial con un pic18f2
 .
 
 Proyecto desarrollado como trabajo freelance con Neurona. 
+
 Caracas, agosto 2020.
 
 Este proyecto consiste en un gui que posee un botón y que permite encender o apagar un LED conectado a un PIC, 
